@@ -25,8 +25,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarCastroC&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdmarCastroC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastro360&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=edcastro360&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **Edmar Castro/Edmar Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
