@@ -8,7 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ed.castro360@gmail.com)](mailto:ed.castro360@gmail.com)
 
 #### Conhecimento nas linguagens:
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -22,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
